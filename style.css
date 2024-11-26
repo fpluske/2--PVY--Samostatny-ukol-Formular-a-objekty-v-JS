@@ -17,3 +17,9 @@ footer {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
+table, th, td {
+    border: 1px solid lightgray;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
