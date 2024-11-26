@@ -1,0 +1,14 @@
+footer {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: grey;
+    border-radius: 20px;
+    margin-left: 39%;
+    margin-right: 39%;
+}
